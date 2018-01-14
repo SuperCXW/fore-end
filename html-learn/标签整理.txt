@@ -1,0 +1,38 @@
+﻿<h1>标题
+<p>段落
+<b>加粗
+<i>斜体
+<sup>右上角标
+<sub>右下角标
+<br />换行
+<hr />分割线
+<strong>强调加粗
+<em>强调斜体
+<blockquote>长引用
+<q>短引用
+<abbr title="aaa">缩写介绍
+<cite>引用作品
+<dfn>新术语
+<address>作者内容
+<ins>插入内容
+<del>删除的内容
+<s>不相关但不删除（横线穿过）
+<ol>有序列表
+	<li>列表元素
+<ul>无序列表
+	<li>列表元素	
+<dl>定义列表
+  <dt>列表头
+    <dd>列表内容
+<a>链接 herf为链接地址 target为形式例如"_blank"
+<img>图片 src为图片指向 alt文本说明 title附加信息
+块级元素会另起一行 内联元素不会
+align属性指定内联元素的内容
+html5引入<figure>包含图片和图片说明<figcaption>
+<table>列表
+<tr>列行
+<td>格子的data
+<th>也是格子data，但是是title scope说明是行标题还是列标题
+colspan跨列 rowspan跨行
+长表格由<table><thead><tbody><tfoot>
+<input>输入框
