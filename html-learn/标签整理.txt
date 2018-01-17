@@ -35,8 +35,12 @@ html5引入<figure>包含图片和图片说明<figcaption>
 <th>也是格子data，但是是title scope说明是行标题还是列标题
 colspan跨列 rowspan跨行
 长表格由<table><thead><tbody><tfoot>
-<input>输入框 type = “text” 文本 “password” 密码 radio单选 checkbox多选 file上传文件
+<input>输入框 type = “text” 文本 “password” 密码 radio单选 checkbox多选 file上传文件 image图片按钮 hidden隐藏表单 date日期 email url 特定字符串 submit时检查 search搜索
 <textarea> 多行文本框
  <select>下拉框 size弹出选项数 multiple是否多选
     <option>下来选项 selected选择默认
+<button>按钮	
+<label>标签表单控件，给控件添加文字，包含控件或使用for属性
+<fieldset> 表单组
+  <legend>表单组名称
 	
